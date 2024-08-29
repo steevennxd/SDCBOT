@@ -75,3 +75,4 @@ For questions and support, join our [Discord community](https://link.codigoencas
 Built with [BuilderBot](https://www.builderbot.app/en) - Empowering conversational AI for WhatsApp
 "# SDCBOT" 
 "# SDCBOT" 
+"# SDC-BOT" 
